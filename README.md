@@ -1,6 +1,6 @@
 # reading-notes-301
 
-In this website, you can find all my 201 reading notes-301.
+Hey! My name is Dana and I am a student at ASAC, currently enrolled in the Code 301 course. This is my personal page to document my notes whilest learning how to code.
 
 ## Table of daily reading assignments
 
