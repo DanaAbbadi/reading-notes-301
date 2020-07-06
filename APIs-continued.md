@@ -50,16 +50,7 @@ REST, or REpresentational State Transfer, is an architectural style for providin
 
 # SuperAgent
 
-
-
-
-
-
-
-
-
-
-
+SuperAgent is light-weight progressive ajax API crafted for flexibility, readability, and a low learning curve after being frustrated with many of the existing request APIs.
 
 
 
@@ -69,5 +60,6 @@ REST, or REpresentational State Transfer, is an architectural style for providin
  2. []A Conversation about REST with my brother(https://gist.github.com/brookr/5977550) 
  3. [What is REST](https://www.codecademy.com/articles/what-is-rest) 
  4. [REST](https://restfulapi.net/) 
+ 5. [SuperAgent](https://visionmedia.github.io/superagent/)
 
 
