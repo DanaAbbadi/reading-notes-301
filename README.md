@@ -4,7 +4,7 @@ Hey! My name is *Dana* and I am a student at ASAC, currently enrolled in the Cod
 
 ## Table of daily reading assignments
 
-title  | Link
+Title  | Link
 -------|-------
 SMACSS and Responsive Web Design              | [Link 1](https://danaabbadi.github.io/reading-notes-301/SMACSS-and-Responsive-Web-Design)
 jQuery, Events, and The DOM                   | [Link 2](https://danaabbadi.github.io/reading-notes-301/jQuery-Events-and-The-DOM)
