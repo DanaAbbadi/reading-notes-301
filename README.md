@@ -13,7 +13,7 @@ Responsive Web Design and Regular Expressions | [Link 4](https://danaabbadi.gith
 Heroku Deployment                             | [Link 5](https://danaabbadi.github.io/reading-notes-301/Heroku-Deployment)
 Node, Express, and APIs                       | [Link 6](https://danaabbadi.github.io/reading-notes-301/Node-Express-and-APIs)
 APIs continued                                | [Link 7](https://danaabbadi.github.io/reading-notes-301/APIs-continued)
-SQL                                           | [Link 8](https://danaabbadi.github.io/reading-notes-301/SQL)
+SQL                                           | [Link 8](https://danaabbadi.github.io/reading-notes-301/sql)
 Refactoring                                   | [Link 9](https://danaabbadi.github.io/reading-notes-301/read09)
 The Call Stack and Debugging                  | [Link 10](https://danaabbadi.github.io/reading-notes-301/read10)
 EJS                                           | [Link 11](https://danaabbadi.github.io/reading-notes-301/read11)
