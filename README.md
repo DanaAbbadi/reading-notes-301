@@ -15,7 +15,7 @@ Node, Express, and APIs                       | [Link 6](https://danaabbadi.gith
 APIs continued                                | [Link 7](https://danaabbadi.github.io/reading-notes-301/APIs-continued)
 SQL                                           | [Link 8](https://danaabbadi.github.io/reading-notes-301/sql)
 Refactoring                                   | [Link 9](https://danaabbadi.github.io/reading-notes-301/refactoring)
-The Call Stack and Debugging                  | [Link 10](https://danaabbadi.github.io/reading-notes-301/read10)
+The Call Stack and Debugging                  | [Link 10](https://danaabbadi.github.io/reading-notes-301/callstack)
 EJS                                           | [Link 11](https://danaabbadi.github.io/reading-notes-301/read11)
 Components                                    | [Link 12](https://danaabbadi.github.io/reading-notes-301/read12)
 Update/Delete                                 | [Link 12](https://danaabbadi.github.io/reading-notes-301/read12)
