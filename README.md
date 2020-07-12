@@ -16,7 +16,7 @@ APIs continued                                | [Link 7](https://danaabbadi.gith
 SQL                                           | [Link 8](https://danaabbadi.github.io/reading-notes-301/sql)
 Refactoring                                   | [Link 9](https://danaabbadi.github.io/reading-notes-301/refactoring)
 The Call Stack and Debugging                  | [Link 10](https://danaabbadi.github.io/reading-notes-301/callstack)
-EJS                                           | [Link 11](https://danaabbadi.github.io/reading-notes-301/read11)
+EJS                                           | [Link 11](https://danaabbadi.github.io/reading-notes-301/EJS)
 Components                                    | [Link 12](https://danaabbadi.github.io/reading-notes-301/read12)
 Update/Delete                                 | [Link 12](https://danaabbadi.github.io/reading-notes-301/read12)
 DB Normalization                              | [Link 13](https://danaabbadi.github.io/reading-notes-301/read13)
