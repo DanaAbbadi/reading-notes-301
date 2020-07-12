@@ -21,12 +21,12 @@ EJS simply stands for Embedded JavaScript templates, and we can use it both serv
 
 - To install EJS with NPM write this in your terminal : npm install ejs
 
-- Caching : EJS ships with a basic in-process cache for caching the intermediate JavaScript functions used to render templates.
+- Caching : EJS ships with a basic in-process cache for caching the intermediate JavaScript functions used to  render templates.
 
 - Layouts : EJS does not specifically support blocks, but layouts can be implemented by including headers and footers.
 
 
-##### We can use EJS to Template our Node Application
+##### We can use EJS to Template our Node Application:
 
 For applications that need quick templating, there are many options that we can use :
 
