@@ -17,17 +17,17 @@ The action attribute defines where the data gets sent. Its value must be a valid
 
 The method attribute Tells the browser how to send form data to a web server. Here are the values for the method:
 
- #### ```<form method=”GET”>```
+ #### < form method=”GET”>
 
-     The method attribute of the form element tells the web browser how to send form data to a server. Specifying a value of GET means the browser will add the form contents to the end of the URL. This offers a number of advantages for simple forms. It allows the browser to cache the results of the form submission, and it also allows the user to bookmark the page once the form has been submitted. As such, GET is generally used for simple forms where security is not a concern.
+The method attribute of the form element tells the web browser how to send form data to a server. Specifying value of GET means the browser will add the form contents to the end of the URL. This offers a number oadvantages for simple forms. It allows the browser to cache the results of the form submission, and it alsallows the user to bookmark the page once the form has been submitted. As such, GET is generally used fosimple forms where security is not a concern
 
-     GET results in the entire contents of the submission being visible in the URL. If your form contains sensitive data, you should specify a value of POST for the method attribute. Since GET appends the form data to the current URL, it can only be used where the contents of the submission (including the complete URL) will result in a string that is 2048 characters long, or less. This is the maximum length of a URL. GET can only be used to send ASCII data.
+GET results in the entire contents of the submission being visible in the URL. If your form contains sensitivdata, you should specify a value of POST for the method attribute. Since GET appends the form data to thcurrent URL, it can only be used where the contents of the submission (including the complete URL) will resulin a string that is 2048 characters long, or less. This is the maximum length of a URL. GET can only be useto send ASCII data.
 
-#### ```<form method=”POST”>```
+#### < form method=”POST”>
 
-     The method attribute of the form element tells the web browser how to send form data to a server. Specifying a value of POST means the browser will send the data to the web server to be processed. This is necessary when adding data to a database, or when submitting sensitive information, such as passwords
+The method attribute of the form element tells the web browser how to send form data to a server. Specifying a value of POST means the browser will send the data to the web server to be processed. This is necessary when adding data to a database, or when submitting sensitive information, such as passwords
 
-    ![get](/img/get.PNG)
+![get](/img/get.PNG)
 
 ## On the server side: retrieving the data
 
