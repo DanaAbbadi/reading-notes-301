@@ -17,7 +17,7 @@ The action attribute defines where the data gets sent. Its value must be a valid
 
 The method attribute Tells the browser how to send form data to a web server. Here are the values for the method:
 
- #### < form method=”GET”>
+#### < form method=”GET”>
 
 The method attribute of the form element tells the web browser how to send form data to a server. Specifying value of GET means the browser will add the form contents to the end of the URL. This offers a number oadvantages for simple forms. It allows the browser to cache the results of the form submission, and it alsallows the user to bookmark the page once the form has been submitted. As such, GET is generally used fosimple forms where security is not a concern
 
