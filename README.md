@@ -20,4 +20,4 @@ EJS                                           | [Link 11](https://danaabbadi.git
 Components                                    | [Link 12](https://danaabbadi.github.io/reading-notes-301/Components)
 Update/Delete                                 | [Link 13](https://danaabbadi.github.io/reading-notes-301/Update_delete)
 DB Normalization                              | [Link 14](https://danaabbadi.github.io/reading-notes-301/Normalization)
-Diversity and Inclusion                       | [Link 15](https://danaabbadi.github.io/reading-notes-301/read15)
+Diversity and Inclusion                       | [Link 15](https://danaabbadi.github.io/reading-notes-301/Diversity)
