@@ -19,6 +19,5 @@ The Call Stack and Debugging                  | [Link 10](https://danaabbadi.git
 EJS                                           | [Link 11](https://danaabbadi.github.io/reading-notes-301/EJS)
 Components                                    | [Link 12](https://danaabbadi.github.io/reading-notes-301/Components)
 Update/Delete                                 | [Link 13](https://danaabbadi.github.io/reading-notes-301/Update_delete)
-DB Normalization                              | [Link 14](https://danaabbadi.github.io/reading-notes-301/read13)
-Project Ideas & APIs                          | [Link 14](https://danaabbadi.github.io/reading-notes-301/read14)
+DB Normalization                              | [Link 14](https://danaabbadi.github.io/reading-notes-301/Normalization)
 Diversity and Inclusion                       | [Link 15](https://danaabbadi.github.io/reading-notes-301/read15)
